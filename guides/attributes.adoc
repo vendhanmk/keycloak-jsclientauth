@@ -1,0 +1,8 @@
+:project_name: Keycloak
+:project_doc_base_url: https://www.keycloak.org/docs/latest
+:adminguide_name: Server Administration Guide
+:adminguide_name_short: Server Administration
+:adminguide_link: {project_doc_base_url}/server_admin/
+:project_product: false
+:project_community: true
+:section: guide
