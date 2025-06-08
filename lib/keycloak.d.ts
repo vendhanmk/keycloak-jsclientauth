@@ -37,6 +37,10 @@ export interface KeycloakConfig {
 	 * Client identifier, example: 'myapp'
 	 */
 	clientId: string;
+	/**
+	 * Secret, example: 'secret'
+	 */
+	secret:string;
 }
 
 export interface Acr {
